@@ -13,4 +13,5 @@ def design_pattern(n):
             print(chr(65 + j), end = " ")
         print()    
 
-      
+# here is the call for the above function :   
+design_pattern(5)
